@@ -31,8 +31,3 @@
 ### 📫 How to reach me:
 - 📧 Email: [danilsenchyshyn@gmail.com](mailto:danilsenchyshyn@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/senchyshyn-danylo-a49a9735b](https://www.linkedin.com/in/senchyshyn-danylo-a49a9735b)
-
----
-
-### ✨ Fun Fact:
-> When I'm not coding, I love building logic games and solving puzzles!
