@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danylo Senchyshyn
 
 ### 🧑‍💻 About Me:
-- 🎓 Second-year Computer Science student at Technical University of Košice (TUKE)
+- 🎓 Third-year Computer Science student at Technical University of Košice (TUKE)
 - 🛠️ Passionate about Backend Development, REST APIs, and database-driven applications
 - 🌱 Currently improving my skills in Java, Spring Boot, and Microservices
 - 🚀 Open to exciting opportunities and collaboration on real-world projects
