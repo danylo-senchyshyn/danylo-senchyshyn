@@ -20,14 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danylo-senchyshyn&show_icons=true&theme=react&hide_title=true&count_private=true&hide=contribs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danylo-senchyshyn&theme=react" />
-</p>
-
----
-
 ### 📫 How to reach me:
 - 📧 Email: [danilsenchyshyn@gmail.com](mailto:danilsenchyshyn@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/senchyshyn-danylo-a49a9735b](https://www.linkedin.com/in/senchyshyn-danylo-a49a9735b)
