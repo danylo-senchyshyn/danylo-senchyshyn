@@ -2,14 +2,11 @@
 
 ---
 
-## About Me
-
-- Backend Software Engineer with commercial experience in microservice development  
-- Strong in **Java 17**, **Spring Boot 3**, and distributed systems  
-- Hands-on experience with **PostgreSQL**, **MongoDB**, **Redis**  
-- Practical experience with **Kafka**, event-driven communication, and service integration  
-- Solid experience with **JWT**, **Spring Security**, and secure API design  
-- Write clean, well-tested code using **JUnit 5**, **Mockito**, and CI/CD workflows  
+- Backend: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST API, Microservices  
+- Frontend : JavaScript, React, HTML5, CSS3  
+- Databases: PostgreSQL, MongoDB, Redis  
+- Testing & QA: JUnit, Postman  
+- DevOps & Tools: Docker, Git, Maven, Kafka, GitLab CI/CD  
 
 ---
 
