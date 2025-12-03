@@ -1,4 +1,4 @@
-# Backend Software Engineer | Java & Spring Boot | Microservices | Distributed Systems
+# Backend Software Engineer | Java & Spring Boot | Microservices
 
 ---
 
