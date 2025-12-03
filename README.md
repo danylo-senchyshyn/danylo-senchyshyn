@@ -3,7 +3,7 @@
 ## 🧑‍💻 Backend Software Engineer | Java & Spring Boot | Microservices | Distributed Systems
 
 I build scalable backend systems with a strong focus on clean architecture, performance, and reliability.  
-With 2+ years of experience working in distributed teams, I enjoy solving real-world engineering problems and designing maintainable backend services.
+With experience working in distributed teams, I enjoy solving real-world engineering problems and designing maintainable backend services.
 
 ---
 
@@ -15,8 +15,6 @@ With 2+ years of experience working in distributed teams, I enjoy solving real-w
 - 🔄 Practical experience with **Kafka**, event-driven communication, and service integration  
 - 🔐 Solid experience with **JWT**, **Spring Security**, and secure API design  
 - 🧪 Write clean, well-tested code using **JUnit 5**, **Mockito**, and CI/CD workflows  
-- 🤝 Collaborative team player — code reviews, clear communication, clean Git workflow  
-- 📚 Currently learning system design, cloud patterns, and improving architectural thinking  
 
 ---
 
