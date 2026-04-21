@@ -41,4 +41,4 @@
 
 # How to reach me
 - Email: **dsenchyshyn.business@gmail.com**
-- LinkedIn: [linkedin.com/in/senchyshyn-danylo-a49a9735b](https://www.linkedin.com/in/senchyshyn-danylo-a49a9735b)
+- LinkedIn: [linkedin.com/in/senchyshyn-danylo]([https://www.linkedin.com/in/senchyshyn-danylo-a49a9735b](https://www.linkedin.com/in/senchyshyn-danylo/))
